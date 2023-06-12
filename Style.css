@@ -14,11 +14,8 @@ h2 {
     margin-right: 10px;
 }
 
-.imagen {
-    display: flex;
-    justify-content: center;
-}
-
-h1 {
-    color: blue;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
