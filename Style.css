@@ -1,0 +1,20 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+.horizontal-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+
+.horizontal-list li {
+    margin-right: 10px;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+}
