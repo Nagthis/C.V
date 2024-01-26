@@ -12,10 +12,20 @@ h2 {
 
 .horizontal-list li {
     margin-right: 10px;
+    margin-left: 8px;
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+p,
+h3 {
+    margin: 3%;
+}
+
+body {
+    padding: 20px;
 }
